@@ -152,7 +152,8 @@ div {
 	background-color: var(--blue-color);
 	padding: 17px 20px;
 	line-height: 1.6;
-	width: 40px;
+	max-width: 70%;
+	font-size: 14px;
 	border-radius: 4px;
 }
 
